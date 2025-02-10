@@ -14,7 +14,6 @@ Key Features:
 ## Technologies Used
 - **React.js**: Frontend library for building the user interface.
 - **React Router**: For handling page navigation.
-- **HTML**: For stucture.
 - **CSS**: For styling the components.
 - **Email.js**: To send emails from the contact form.
 
