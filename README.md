@@ -17,8 +17,6 @@ Key Features:
 - **CSS**: For styling the components.
 - **Email.js**: To send emails from the contact form.
 
-## Installation
-
 ### Prerequisites
 Ensure you have **Node.js** and **npm** installed on your machine.
 
